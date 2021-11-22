@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Test2/static/css/main.cb0f2ec3.chunk.css",
-    "main.js": "/Test2/static/js/main.ec09459a.chunk.js",
-    "main.js.map": "/Test2/static/js/main.ec09459a.chunk.js.map",
-    "runtime-main.js": "/Test2/static/js/runtime-main.e2b3b110.js",
-    "runtime-main.js.map": "/Test2/static/js/runtime-main.e2b3b110.js.map",
-    "static/css/2.a2fd0aab.chunk.css": "/Test2/static/css/2.a2fd0aab.chunk.css",
-    "static/js/2.6e973f8a.chunk.js": "/Test2/static/js/2.6e973f8a.chunk.js",
-    "static/js/2.6e973f8a.chunk.js.map": "/Test2/static/js/2.6e973f8a.chunk.js.map",
-    "index.html": "/Test2/index.html",
-    "static/css/2.a2fd0aab.chunk.css.map": "/Test2/static/css/2.a2fd0aab.chunk.css.map",
-    "static/css/main.cb0f2ec3.chunk.css.map": "/Test2/static/css/main.cb0f2ec3.chunk.css.map",
-    "static/js/2.6e973f8a.chunk.js.LICENSE.txt": "/Test2/static/js/2.6e973f8a.chunk.js.LICENSE.txt",
-    "static/media/ApeLogo.png": "/Test2/static/media/ApeLogo.88844554.png",
-    "static/media/index.css": "/Test2/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
+    "main.css": "/NFT_Game/static/css/main.cb0f2ec3.chunk.css",
+    "main.js": "/NFT_Game/static/js/main.41a5535d.chunk.js",
+    "main.js.map": "/NFT_Game/static/js/main.41a5535d.chunk.js.map",
+    "runtime-main.js": "/NFT_Game/static/js/runtime-main.236bd760.js",
+    "runtime-main.js.map": "/NFT_Game/static/js/runtime-main.236bd760.js.map",
+    "static/css/2.addc59ec.chunk.css": "/NFT_Game/static/css/2.addc59ec.chunk.css",
+    "static/js/2.0b5878a9.chunk.js": "/NFT_Game/static/js/2.0b5878a9.chunk.js",
+    "static/js/2.0b5878a9.chunk.js.map": "/NFT_Game/static/js/2.0b5878a9.chunk.js.map",
+    "index.html": "/NFT_Game/index.html",
+    "static/css/2.addc59ec.chunk.css.map": "/NFT_Game/static/css/2.addc59ec.chunk.css.map",
+    "static/css/main.cb0f2ec3.chunk.css.map": "/NFT_Game/static/css/main.cb0f2ec3.chunk.css.map",
+    "static/js/2.0b5878a9.chunk.js.LICENSE.txt": "/NFT_Game/static/js/2.0b5878a9.chunk.js.LICENSE.txt",
+    "static/media/ApeLogo.png": "/NFT_Game/static/media/ApeLogo.88844554.png",
+    "static/media/index.css": "/NFT_Game/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2b3b110.js",
-    "static/css/2.a2fd0aab.chunk.css",
-    "static/js/2.6e973f8a.chunk.js",
+    "static/js/runtime-main.236bd760.js",
+    "static/css/2.addc59ec.chunk.css",
+    "static/js/2.0b5878a9.chunk.js",
     "static/css/main.cb0f2ec3.chunk.css",
-    "static/js/main.ec09459a.chunk.js"
+    "static/js/main.41a5535d.chunk.js"
   ]
 }
