@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/NFT_Game/static/css/main.cb0f2ec3.chunk.css",
-    "main.js": "/NFT_Game/static/js/main.41a5535d.chunk.js",
-    "main.js.map": "/NFT_Game/static/js/main.41a5535d.chunk.js.map",
+    "main.css": "/NFT_Game/static/css/main.49bd7178.chunk.css",
+    "main.js": "/NFT_Game/static/js/main.56f138c3.chunk.js",
+    "main.js.map": "/NFT_Game/static/js/main.56f138c3.chunk.js.map",
     "runtime-main.js": "/NFT_Game/static/js/runtime-main.236bd760.js",
     "runtime-main.js.map": "/NFT_Game/static/js/runtime-main.236bd760.js.map",
     "static/css/2.addc59ec.chunk.css": "/NFT_Game/static/css/2.addc59ec.chunk.css",
-    "static/js/2.0b5878a9.chunk.js": "/NFT_Game/static/js/2.0b5878a9.chunk.js",
-    "static/js/2.0b5878a9.chunk.js.map": "/NFT_Game/static/js/2.0b5878a9.chunk.js.map",
+    "static/js/2.d91569e0.chunk.js": "/NFT_Game/static/js/2.d91569e0.chunk.js",
+    "static/js/2.d91569e0.chunk.js.map": "/NFT_Game/static/js/2.d91569e0.chunk.js.map",
     "index.html": "/NFT_Game/index.html",
     "static/css/2.addc59ec.chunk.css.map": "/NFT_Game/static/css/2.addc59ec.chunk.css.map",
-    "static/css/main.cb0f2ec3.chunk.css.map": "/NFT_Game/static/css/main.cb0f2ec3.chunk.css.map",
-    "static/js/2.0b5878a9.chunk.js.LICENSE.txt": "/NFT_Game/static/js/2.0b5878a9.chunk.js.LICENSE.txt",
+    "static/css/main.49bd7178.chunk.css.map": "/NFT_Game/static/css/main.49bd7178.chunk.css.map",
+    "static/js/2.d91569e0.chunk.js.LICENSE.txt": "/NFT_Game/static/js/2.d91569e0.chunk.js.LICENSE.txt",
     "static/media/ApeLogo.png": "/NFT_Game/static/media/ApeLogo.88844554.png",
     "static/media/index.css": "/NFT_Game/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.236bd760.js",
     "static/css/2.addc59ec.chunk.css",
-    "static/js/2.0b5878a9.chunk.js",
-    "static/css/main.cb0f2ec3.chunk.css",
-    "static/js/main.41a5535d.chunk.js"
+    "static/js/2.d91569e0.chunk.js",
+    "static/css/main.49bd7178.chunk.css",
+    "static/js/main.56f138c3.chunk.js"
   ]
 }
