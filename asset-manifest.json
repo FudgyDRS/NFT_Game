@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.49bd7178.chunk.css",
-    "main.js": "/static/js/main.56f138c3.chunk.js",
-    "main.js.map": "/static/js/main.56f138c3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9084a2be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9084a2be.js.map",
-    "static/css/2.c8f58167.chunk.css": "/static/css/2.c8f58167.chunk.css",
-    "static/js/2.086a33ff.chunk.js": "/static/js/2.086a33ff.chunk.js",
-    "static/js/2.086a33ff.chunk.js.map": "/static/js/2.086a33ff.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c8f58167.chunk.css.map": "/static/css/2.c8f58167.chunk.css.map",
-    "static/css/main.49bd7178.chunk.css.map": "/static/css/main.49bd7178.chunk.css.map",
-    "static/js/2.086a33ff.chunk.js.LICENSE.txt": "/static/js/2.086a33ff.chunk.js.LICENSE.txt",
-    "static/media/ApeLogo.png": "/static/media/ApeLogo.88844554.png",
-    "static/media/index.css": "/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
+    "main.css": "/NFT_Game/static/css/main.49bd7178.chunk.css",
+    "main.js": "/NFT_Game/static/js/main.56f138c3.chunk.js",
+    "main.js.map": "/NFT_Game/static/js/main.56f138c3.chunk.js.map",
+    "runtime-main.js": "/NFT_Game/static/js/runtime-main.236bd760.js",
+    "runtime-main.js.map": "/NFT_Game/static/js/runtime-main.236bd760.js.map",
+    "static/css/2.addc59ec.chunk.css": "/NFT_Game/static/css/2.addc59ec.chunk.css",
+    "static/js/2.d91569e0.chunk.js": "/NFT_Game/static/js/2.d91569e0.chunk.js",
+    "static/js/2.d91569e0.chunk.js.map": "/NFT_Game/static/js/2.d91569e0.chunk.js.map",
+    "index.html": "/NFT_Game/index.html",
+    "static/css/2.addc59ec.chunk.css.map": "/NFT_Game/static/css/2.addc59ec.chunk.css.map",
+    "static/css/main.49bd7178.chunk.css.map": "/NFT_Game/static/css/main.49bd7178.chunk.css.map",
+    "static/js/2.d91569e0.chunk.js.LICENSE.txt": "/NFT_Game/static/js/2.d91569e0.chunk.js.LICENSE.txt",
+    "static/media/ApeLogo.png": "/NFT_Game/static/media/ApeLogo.88844554.png",
+    "static/media/index.css": "/NFT_Game/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.9084a2be.js",
-    "static/css/2.c8f58167.chunk.css",
-    "static/js/2.086a33ff.chunk.js",
+    "static/js/runtime-main.236bd760.js",
+    "static/css/2.addc59ec.chunk.css",
+    "static/js/2.d91569e0.chunk.js",
     "static/css/main.49bd7178.chunk.css",
     "static/js/main.56f138c3.chunk.js"
   ]
